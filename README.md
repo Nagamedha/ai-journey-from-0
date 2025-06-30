@@ -2,11 +2,11 @@
 
 Hi! I’m learning AI from scratch — and teaching everything I learn in a simple, beginner-friendly way.
 
-This repo is my **learning-in-public space** where I:
-- Document my journey step-by-step
-- Share notes, hands-on code, and projects
-- Explain concepts in plain English for non-technical folks
-- Keep growing into an AI Engineer and Educator
+This repo is a **living documentation** of:
+- Everything I learn
+- The tools I use
+- My mistakes, wins, and projects
+- Beginner-friendly blogs to help others understand AI too
 
 ---
 
