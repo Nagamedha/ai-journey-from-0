@@ -3,40 +3,33 @@
 Hi! I’m learning AI from scratch — and teaching everything I learn in a simple, beginner-friendly way.
 
 This repo is a **living documentation** of:
-- Everything I learn
-- The tools I use
-- My mistakes, wins, and projects
-- Beginner-friendly blogs to help others understand AI too
+- My step-by-step learning journey, showcasing growth and consistency
+- The tools I use, with shared notes, code, and projects
+- My mistakes, wins, and lessons along the way
+- My evolution into an AI Engineer and Educator
 
 ---
 
-## 📚 Structured Learning Plan
-I’m following a **multi-week plan** focused on one topic at a time:
-
-1. SQL
-2. Python & Pandas
-3. Statistics
-4. Machine Learning
-5. End-to-End Projects
-6. AI Trends & Concepts
+## 🧠 Start Here if You’re New
+- [What is AI?](./00_AI_for_Everyone/What_is_AI.md) — for total beginners
 
 ---
 
-## ✍️ Start Here (for Beginners)
-- [What is AI?](./06_Blog_Drafts/What_is_AI.md) – A simple guide for anyone curious about AI
+## 🔄 Weekly Folders Will Appear as I Learn
+Topics will be added gradually:
+- SQL → Python → Statistics → Machine Learning → Projects
 
 ---
 
 ## 📂 Repo Structure (Growing Weekly)
-I’ll add new folders as I progress:
+- `/00_AI_for_Everyone/`
 - `/01_SQL/`
 - `/02_Python_Pandas/`
 - `/03_Statistics/`
 - `/04_Machine_Learning/`
 - `/05_Projects/`
-- `/06_Blog_Drafts/`
 
 ---
 
 Stay tuned and learn with me 🌱  
-Let’s make AI simple and useful for everyone.
+Let’s make AI simple and useful for everyone — in the best way possible.
